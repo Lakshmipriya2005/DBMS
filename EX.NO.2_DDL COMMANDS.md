@@ -24,8 +24,13 @@ To create a student database and execute DDL queries using SQL.
 ### 1) Create a database studentdb
 
 ### SQL QUERY:
+```
+ create table student(rollno int,name char(20),age int,address varchar(20),phoneno int);
+```
 
 ### OUTPUT:
+
+![Screenshot 2023-10-18 132226](https://github.com/DrUmaRaniV/DBMS/assets/115525361/31f87446-223b-4e6d-b670-ec1962de00dc)
 
 ### 2) Create a table student with the following fieds RegisterNumber,Name,Age,Address,Phone number
 
