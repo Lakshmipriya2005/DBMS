@@ -70,7 +70,8 @@ select ename from manager where designation='clerk';
 
 ### OUTPUT:
 
-![image](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/bba7d527-b26d-4fed-a630-26d0df9601d8)
+![image](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/22a26a2f-293a-45a3-8f04-2261774f4a2c)
+
 
 ### Q5)	List the names of employee who are not Managers.
 
