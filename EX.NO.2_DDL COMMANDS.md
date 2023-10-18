@@ -35,41 +35,68 @@ Create a database studentdb;
 ### 2) Create a table student with the following fieds RegisterNumber,Name,Age,Address,Phone number
 
 ### SQL QUERY: 
+```
+ create table student(rollno int,name char(20),age int,address varchar(20),phoneno int);
+```
+
 
 
 ### OUTPUT:
+![Screenshot 2023-10-18 132258](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/b563cf0d-ff59-4fdf-b626-734eee9faf99)
+
 
 ### 3) Alter the above student table by adding another attribute department
 
 ### SQL QUERY: 
+```
+alter table student add department char(30);
+```
 
 ### OUTPUT:
+![Screenshot 2023-10-18 132314](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/934eecfe-19a6-472e-b1a3-cc6197b7e1be)
+
 
 
 ### 4) Drop the student table
  
 ### SQL QUERY: 
+ ```
+drop table student;
+```
 
 
 ### OUTPUT:
+![drop](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/85487739-adc7-4724-b193-a1c68232cf55)
+
 
 
 ### 5) Delete the student table using truncate keyword
 
 ### SQL QUERY: 
+```
+truncate table student;
+```
 
 
 ### OUTPUT:
+![truncate](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/32840a78-3656-4880-bd86-50dc5eefdb9a)
+
 
 
 
 ### 6) Rename the student table to mystudent
 
 ### SQL QUERY: 
+```
+alter table student rename to mystudent;
+```
+
 
 
 
 ### OUTPUT:
+![image](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/484b8c3e-a0b0-49cd-974b-916e7e8aa739)
+
 
 
 ## Result:
