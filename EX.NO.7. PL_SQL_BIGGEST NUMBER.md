@@ -13,7 +13,7 @@
 ```
 
 DECLARE
-  -- Declare three variables to store the three numbers
+  
   num1 NUMBER := 10; 
   num2 NUMBER := 20; 
   num3 NUMBER := 15;
@@ -36,7 +36,7 @@ END;
 ```
 
 ### Output:
-![Screenshot 2023-10-20 134044](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/8f7bac5c-ac2d-4349-add1-f6f9c43b293f)
+![Screenshot 2023-10-20 134256](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/e2baecc1-6d4f-49df-ae02-260b98922279)
 
 
 
