@@ -36,7 +36,8 @@ END;
 ```
 
 ### Output:
-![Screenshot 2023-10-20 134256](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/e2baecc1-6d4f-49df-ae02-260b98922279)
+![Screenshot 2023-10-20 134256](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/c45bc1ec-23a9-4554-9b19-91b8a9ce15d2)
+
 
 
 
