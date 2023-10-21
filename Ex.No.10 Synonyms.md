@@ -114,7 +114,7 @@ VALUES (NEXTVAL('S2'), 'XYZ Distributors', '456 Elm Road', 'Jane Smith');
 
 ### OUTPUT:
 
-![Screenshot 2023-10-21 190838](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/e61c69c0-76c1-48a9-b83a-34a3f7a2968d)
+![Screenshot 2023-10-21 191122](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/2f779d72-49da-4e24-8749-575d5625a31b)
 
 
 ### 7) Drop the sequence
