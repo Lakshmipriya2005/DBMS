@@ -21,7 +21,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class App {
-	public static void main(String[] joo) throws SQLException {
+	public static void main(String[] args) throws SQLException {
 
 		System.out.println("Connecting to DB");
 		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/mydb", "root", "Root@2005");
@@ -48,7 +48,8 @@ public class App {
 
 
 ### Output:
-![Screenshot 2023-10-22 165928](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/79d0bb16-6db7-4a8d-a8b0-71c960867716)
+![Screenshot 2023-10-22 171129](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/8ff7f7ea-9d1d-436b-b183-5536d74a6a18)
+
 
 
 
